@@ -1,0 +1,94 @@
+body {
+  background: #BE5BC7;
+  margin: 0;
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Fredericka the Great', cursive;
+  font-size: 4rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+.cloud {
+  position: absolute;
+}
+
+.cloud-top-right {
+  height: 100px;
+  right: 400px;
+}
+
+.cloud-top-left {
+  height: 125px;
+  left: 200px;
+  top: 300px;
+}
+
+.cloud-bot-left {
+  height: 80px;
+  left: 500px;
+  bottom: 200px;
+}
+
+.cloud-bot-right {
+  height: 200px;
+  bottom: 400px;
+  right: 200px;
+}
+
+.head{
+  margin-top: 20px;
+}
+
+.heading {
+  background: #BE5BC7;
+  text-align: center;
+  color: #93359C;
+  position: fixed;
+  width: 100%;
+}
+
+.mountain {
+  position: relative;
+}
+
+.nido {
+  height: 250px;
+  position: absolute;
+}
+
+.king {
+  right: 47%;
+  top: 0;
+}
+
+.rino {
+  left: 50%;
+  right: 37%;
+  top: 85px;
+}
+
+.ran {
+  right: 45%;
+  top: 248px;
+}
+
+.pokeball {
+  height: 500px;
+}
+
+.top-div {
+  background: skyblue;
+  color: #93359C;
+  padding-top: 100px;
+  position: relative;
+}
+
+.top-ball-div {
+  position: relative;
+}
