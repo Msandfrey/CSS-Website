@@ -1,3 +1,11 @@
+a{
+  color: white;
+}
+
+a:visited{
+  color: purple;
+}
+
 body {
   background: #BE5BC7;
   margin: 0;
@@ -11,7 +19,15 @@ h1 {
 }
 
 h2 {
+  color: indigo;
   font-size: 1.5rem;
+  font-weight: normal;
+}
+
+.abilityImg {
+  float: right;
+  margin-left: 30px;
+  width: 25%;
 }
 
 .cloud {
@@ -80,6 +96,19 @@ h2 {
 
 .pokeball {
   height: 500px;
+}
+
+.skill-row {
+  line-height: 2;
+  margin: 100px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.swooImg {
+  float: left;
+  margin-right: 30px;
+  width: 30%;
 }
 
 .top-div {
